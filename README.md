@@ -36,6 +36,8 @@ Projects are deployed using **GitHub Pages**.
 Example:
 - Calculator: `https://anushanunna0509-max..github.io/mini-projects/calculator/`
 - Digital Clock: `https://anushanunna0509-max.github.io/mini-projects/digitalclock/`
+- Background color: `https://anushanunna0509-max.github.io/mini-projects/backgroundcolor/`
+- Qr code generator: `https://anushanunna0509-max.github.io/mini-projects/Qr code generator/`
 
 ## Learning Outcomes
 - DOM manipulation
