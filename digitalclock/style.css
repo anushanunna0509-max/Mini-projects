@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(97,203,203);
+    padding: 150px;
+}
+.container{
+    height: 130px;
+    width: 300px;
+    border: 2px solid rgba(68,74,75,0.9);
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px black;
+    padding: 40px;
+}
+h1,span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#clock{
+    font-size: 30px;
+}
