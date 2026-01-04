@@ -34,9 +34,8 @@ These projects helped me understand core JavaScript concepts and improve my fron
 Projects are deployed using **GitHub Pages**.
 
 Example:
-- Calculator: `https://your-username.github.io/mini-projects/calculator/`
-- Digital Clock: `https://your-username.github.io/mini-projects/digitalclock/`
-
+- Calculator: `https://anushanunna0509-max..github.io/mini-projects/calculator/`
+- Digital Clock: `https://anushanunna0509-max.github.io/mini-projects/digitalclock/`
 
 ## Learning Outcomes
 - DOM manipulation
